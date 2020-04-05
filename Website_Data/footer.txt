@@ -1,0 +1,1 @@
+document.write('<div class="footer"><p>Maintained by Trevor Stirling<span style="float:right;"><a href="mailto:trevorjamesstirling@gmail.com">Email</a> me with any comments or errors</span></p></div>')
