@@ -12,9 +12,9 @@ document.write('\
 					<tr>\
 						<nav>\
 							<td><a href="/" id="Home">Home</a></td>\
-							<td><a href="RankingLists/" id="Ranking Lists">Ranking Lists</a></td>\
-							<td><a href="DDSheets/" id="DD Sheets">DD Sheets</a></td>\
-							<td><a href="UsefulLinks" id="Useful Links">Useful Links</a></td>\
+							<td><a href="rankinglists/" id="Ranking Lists">Ranking Lists</a></td>\
+							<td><a href="ddsheets/" id="DD Sheets">DD Sheets</a></td>\
+							<td><a href="usefullinks" id="Useful Links">Useful Links</a></td>\
 						</nav>\
 					</tr>\
 				</table>\
