@@ -4,7 +4,6 @@ document.write('\
 			<center>\
 				<table>\
 					<tr>\
-						<th><img src="Website_Data/GymCan_Logo.png" style="vertical-align: middle;" width=125/></th>\
 						<th><span class="header_title">Trampoline Canada</span><br><p>Unofficial Documents for Trampoline Gymnastics in Canada</p></th>\
 					</tr>\
 				</table>\
